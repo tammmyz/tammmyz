@@ -1,6 +1,10 @@
 ## Hi there! I'm Tammy (she/her) 👋
 
-I'm a current student in the iBioMed and Software Engineering program at McMaster University. I’m interested in learning JavaScript to work on projects in web development and UI/UX design. I am also interested in learning languages like C and exploring the world of back-end development.
+I'm a biomedical and software engineering student who loves playing around with design. </br>I’m interested in learning JavaScript to work on projects in web development and UI/UX design. 
+
+</br>
+>“Passion is energy. Feel the power that comes from focusing what excites you.” - *Oprah Winfrey*
+</br>
 
 #### Hobbies/Interests:
 🌸 Bullet journalling </br>
