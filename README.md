@@ -1,6 +1,6 @@
 ### Hi there! I'm Tammy (she/her) 👋
 
-I'm a biomedical and software engineering student who loves playing around with design. I’m interested in learning JavaScript to work on projects in web development and UI/UX design. 
+I'm a biomedical and software engineering student who loves playing around with design. I'm familiar with Python and Java, and I’m interested in learning JavaScript to work on projects in web development and UI/UX design. 
 
 > “Passion is energy. Feel the power that comes 
 > from focusing what excites you.” - *Oprah Winfrey*
