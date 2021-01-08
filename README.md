@@ -11,7 +11,7 @@ I'm a biomedical and software engineering student who loves playing around with 
 🎼 Ghibli Studio movies </br>
 💅 Painting my nails </br>
 🎹 Piano </br>
-📚 Historical fiction novels
+📚 Historical fiction
 
 <!--
 **tammmyz/tammmyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
