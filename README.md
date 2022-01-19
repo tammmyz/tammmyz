@@ -1,6 +1,6 @@
 ### Hi there! I'm Tammy (she/her) 👋
 
-I'm a biomedical and software engineering student who loves playing around with design. I'm familiar with Python and Java, and I’m interested in learning JavaScript to work on projects in web development and UI/UX design. 
+I'm a software and biomedical engineering student who loves creating things. My favourite languages are Python and Java, but Javascript is rising in my ranks. I love learning to use new APIs and frameworks during the time-crunch of a hackathon (and just attending hackathons overall). I am interested in further exploring the world of data science and the different fields of backend development.
 
 > “Passion is energy. Feel the power that comes 
 > from focusing what excites you.” - *Oprah Winfrey*
