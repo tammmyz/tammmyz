@@ -1,6 +1,6 @@
 ### Hi there! I'm Tammy (she/her) 👋
 
-I'm a software and biomedical engineering student who loves creating things. My favourite languages are Python and Java, but Javascript is rising in my ranks. I love learning to use new APIs and frameworks during the time-crunch of a hackathon (and just attending hackathons overall). I am interested in further exploring the world of data science and the different fields of backend development.
+I'm a software and biomedical engineering student who loves creating things. My favourite languages are Python and Java, but Javascript is rising in my ranks. I love learning to use new APIs and frameworks during the time-crunch of a hackathon (and hackathons overall). I am interested in further exploring the intersection of medicine and artificial intelligence, as well as the different areas of backend development.
 
 > “Passion is energy. Feel the power that comes 
 > from focusing what excites you.” - *Oprah Winfrey*
